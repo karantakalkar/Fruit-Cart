@@ -1,3 +1,4 @@
+
 $(function() {
 
         // fruit model
@@ -59,6 +60,8 @@ $(function() {
 
     });
 
+
+
     // main app view
 
     var App = Backbone.View.extend({
@@ -91,10 +94,13 @@ $(function() {
 
             return this;
         }
+
+
     });
 
     new App();
 
+    
 
 
 

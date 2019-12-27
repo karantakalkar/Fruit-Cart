@@ -1,0 +1,24 @@
+{
+  "name": "fruit-cart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "assets/js/script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karantakalkar/Fruit-Cart.git"
+  },
+  "author": "Karan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karantakalkar/Fruit-Cart/issues"
+  },
+  "homepage": "https://github.com/karantakalkar/Fruit-Cart#readme",
+  "dependencies": {
+    "backbone": "^1.4.0",
+    "jquery": "^3.4.1",
+    "underscore": "^1.9.1"
+  }
+}
